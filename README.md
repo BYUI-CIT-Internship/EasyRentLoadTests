@@ -1,4 +1,4 @@
-###To use locust do the following:
+### To use locust do the following:
 
 - install Python3
 - pip install locust
