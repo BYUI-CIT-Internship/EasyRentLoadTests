@@ -43,3 +43,5 @@ class WebsiteTestUser(HttpUser):
         "dueDate": 1610148694321
     }"""                                                               
    )
+    reservation_id = response.text.split(' ')
+    self.client.delete("https://easyrent-api-test.cit362.com/reservations/" + reservation_id[1])
