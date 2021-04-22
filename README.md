@@ -2,7 +2,7 @@
 
 - install Python3
 - pip install locust
-- git clone https://BYUI-CIT-Internship/EasyRentLoadTests
+- git clone https://github.com/BYUI-CIT-Internship/EasyRentLoadTests.git
 - cd EasyRentLoadTests
 - type locust
 - go to http://localhost:8090
