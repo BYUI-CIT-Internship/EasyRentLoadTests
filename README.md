@@ -5,6 +5,6 @@
 - git clone https://github.com/BYUI-CIT-Internship/EasyRentLoadTests.git
 - cd EasyRentLoadTests
 - type locust
-- go to http://localhost:8090
+- go to http://localhost:8089
 - enter your test parameters (be gentle at first in case it doesn't work, you can watch it closeley)
 - watch the test run
